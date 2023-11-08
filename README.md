@@ -23,7 +23,7 @@ To get started with building PixelBlaster OS GSI, you'll need to get familiar wi
 
 ## Credits
 Special thanks to these people because this repository would not be possible without their efforts on other projects:
-- [PixelBlaster OS Team](https://download.pixelexperience.org/about)
+- [PixelBlaster OS Team](https://github.com/PixelBlaster-OS)
 - [phhusson](https://github.com/phhusson)
 - [ponces](https://github.com/ponces)
 - [AndyYan](https://github.com/AndyCGYan)
